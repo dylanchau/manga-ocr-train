@@ -1,0 +1,10 @@
+[project]
+name = "manga-ocr-train"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "manga-ocr>=0.1.14",
+    "opencv-python>=4.13.0.92",
+]
