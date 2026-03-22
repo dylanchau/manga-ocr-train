@@ -1,5 +1,0 @@
-names:
-- text_region
-nc: 1
-train: C:\Users\Administrator\Desktop\manga-ocr-train\data\processed\detection\train\images
-val: C:\Users\Administrator\Desktop\manga-ocr-train\data\processed\detection\val\images
